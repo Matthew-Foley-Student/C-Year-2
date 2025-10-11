@@ -1,0 +1,11 @@
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\bin\Debug\net9.0\ChessBoardLibrary.deps.json
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\bin\Debug\net9.0\ChessBoardLibrary.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\bin\Debug\net9.0\ChessBoardLibrary.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\refint\ChessBoardLibrary.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ChessBoardLibrary.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 2\Activity Week 2\ChessBoardLibrary\obj\Debug\net9.0\ref\ChessBoardLibrary.dll
