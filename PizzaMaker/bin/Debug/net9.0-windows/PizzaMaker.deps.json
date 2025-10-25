@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PizzaMaker/1.0.0": {
+        "dependencies": {
+          "PizzaMakereClass": "1.0.0"
+        },
+        "runtime": {
+          "PizzaMaker.dll": {}
+        }
+      },
+      "PizzaMakereClass/1.0.0": {
+        "runtime": {
+          "PizzaMakereClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaMaker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaMakereClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

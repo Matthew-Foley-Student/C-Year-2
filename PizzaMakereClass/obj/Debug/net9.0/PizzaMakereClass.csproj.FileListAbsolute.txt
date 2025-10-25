@@ -1,0 +1,11 @@
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\bin\Debug\net9.0\PizzaMakereClass.deps.json
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\bin\Debug\net9.0\PizzaMakereClass.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\bin\Debug\net9.0\PizzaMakereClass.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\refint\PizzaMakereClass.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\PizzaMakereClass.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 4\Activity Week 4\PizzaMakereClass\obj\Debug\net9.0\ref\PizzaMakereClass.dll
