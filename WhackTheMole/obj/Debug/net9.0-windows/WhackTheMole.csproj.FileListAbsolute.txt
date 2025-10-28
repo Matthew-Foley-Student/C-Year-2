@@ -1,0 +1,17 @@
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\bin\Debug\net9.0-windows\WhackTheMole.exe
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\bin\Debug\net9.0-windows\WhackTheMole.deps.json
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\bin\Debug\net9.0-windows\WhackTheMole.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\bin\Debug\net9.0-windows\WhackTheMole.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\bin\Debug\net9.0-windows\WhackTheMole.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.FrmStopWatch.resources
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\refint\WhackTheMole.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.pdb
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\ref\WhackTheMole.dll
+C:\Users\Jarvis\Desktop\C# Year 2\Week 5\Activity Week 5\WhackTheMole\obj\Debug\net9.0-windows\WhackTheMole.frmWinOrLose.resources
